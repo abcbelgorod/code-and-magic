@@ -1,6 +1,6 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Екатерина Зощик](https://up.htmlacademy.ru/javascript/8/user/20096).
+* Студент: [Андрей Черных](abc.belgorod@gmail.com).
 * Наставник: `Неизвестно`.
 
 ---
